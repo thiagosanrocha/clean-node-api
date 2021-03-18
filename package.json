@@ -5,7 +5,7 @@
   "author": "Thiago Rocha <thiagorocha010@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest",
+    "test": "jest --watch",
     "test:staged": "jest --passWithNoTests"
   },
   "devDependencies": {
